@@ -1,0 +1,15 @@
+{
+  "name": "4jo244o83w",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/4jo244o83w",
+  "main": "index.js",
+  "dependencies": {
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "react-icons": "^3.7.0",
+    "semantic-ui-react": "^0.87.3"
+  }
+}
